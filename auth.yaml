@@ -1,0 +1,3 @@
+registry.hub.docker.com:
+  username: ${USERNAME}
+  password: ${PASSWORD}
