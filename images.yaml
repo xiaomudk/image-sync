@@ -2,3 +2,4 @@ k8s.gcr.io/prometheus-adapter/prometheus-adapter: xiaomudk/prometheus-adapter
 gcr.io/kubebuilder/kube-rbac-proxy: xiaomudk/kube-rbac-proxy
 quay.io/ansible/awx-ee: xiaomudk/awx-ee
 quay.io/coreos/etcd: xiaomudk/etcd
+ghcr.io/apache/flink-kubernetes-operator: xiaomudk/flink-kubernetes-operator
