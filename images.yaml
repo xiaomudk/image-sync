@@ -1,8 +1,8 @@
-k8s.gcr.io/prometheus-adapter/prometheus-adapter: xiaomudk/prometheus-adapter
-gcr.io/kubebuilder/kube-rbac-proxy: xiaomudk/kube-rbac-proxy
-quay.io/ansible/awx-ee: xiaomudk/awx-ee
-quay.io/coreos/etcd: xiaomudk/etcd
-ghcr.io/apache/flink-kubernetes-operator: xiaomudk/flink-kubernetes-operator
+# k8s.gcr.io/prometheus-adapter/prometheus-adapter: xiaomudk/prometheus-adapter
+# gcr.io/kubebuilder/kube-rbac-proxy: xiaomudk/kube-rbac-proxy
+# quay.io/ansible/awx-ee: xiaomudk/awx-ee
+# quay.io/coreos/etcd: xiaomudk/etcd
+# ghcr.io/apache/flink-kubernetes-operator: xiaomudk/flink-kubernetes-operator
 gcr.io/distroless/static-debian12: xiaomudk/static-debian12
-gcr.io/distroless/static-debian13: xiaomudk/static-debian13
-gcr.io/distroless/static: xiaomudk/static
+# gcr.io/distroless/static-debian13: xiaomudk/static-debian13
+# gcr.io/distroless/static: xiaomudk/static
