@@ -3,4 +3,6 @@ gcr.io/kubebuilder/kube-rbac-proxy: xiaomudk/kube-rbac-proxy
 quay.io/ansible/awx-ee: xiaomudk/awx-ee
 quay.io/coreos/etcd: xiaomudk/etcd
 ghcr.io/apache/flink-kubernetes-operator: xiaomudk/flink-kubernetes-operator
-gcr.io/distroless/static: xiaomudk/distroless
+gcr.io/distroless/static-debian12: xiaomudk/static-debian12
+gcr.io/distroless/static-debian13: xiaomudk/static-debian13
+gcr.io/distroless/static: xiaomudk/static
